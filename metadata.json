@@ -1,0 +1,6 @@
+{
+  "name": "LAHIAM’S",
+  "description": "LAHIAM’S - A high-performance personal organizer with Bento Grid design, AI intelligence, task management, finances, calendar, and inbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
